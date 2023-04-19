@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botwebdadosbrasil/__init__.py
+botwebdadosbrasil/__main__.py
+botwebdadosbrasil/bot.py
+botwebdadosbrasil.egg-info/PKG-INFO
+botwebdadosbrasil.egg-info/SOURCES.txt
+botwebdadosbrasil.egg-info/dependency_links.txt
+botwebdadosbrasil.egg-info/requires.txt
+botwebdadosbrasil.egg-info/top_level.txt
+botwebdadosbrasil/resources/start.png
